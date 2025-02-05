@@ -1,2 +1,1 @@
-# sorteio-de-amigos-one
-Adicionei um botão para remover os participantes.
+esse foi um exercicio proposto pela alura, usei o html e o css da forma em que foi pedido e no java script eu adicionei um botão para remover os pasrticipantes, mudei a aparência dele, cor, tamanho e borda, adicionei alguns efeitos basicos também.
